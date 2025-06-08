@@ -1,6 +1,6 @@
 # Hey there <img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" width="40px" height="40px">, [nsgpriyanshu](https://nsgpriyanshu.github.io/) here!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&color=34EBD5&random=false&width=435&lines=Creator+of+nstypocolors+;Developer+of+nsCore+;Author+of+nsDocs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&color=f10a0a&random=false&width=435&lines=Creator+of+nstypocolors+;Developer+of+nsCore+;Author+of+nsDocs)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 I am a passionate software developer with a love for creating new and innovative solutions. I thrive on learning new technologies and exploring the ever-evolving world of tech. Alongside my development skills, I am also an AI enthusiast, constantly delving into the intricacies of artificial intelligence and its applications.
@@ -21,6 +21,7 @@ I am a passionate software developer with a love for creating new and innovative
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![MDX](https://img.shields.io/badge/MDX-%23F9AC00.svg?style=for-the-badge&logo=mdx&logoColor=white)
@@ -42,6 +43,7 @@ I am a passionate software developer with a love for creating new and innovative
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 </br>
 
@@ -51,11 +53,4 @@ I am a passionate software developer with a love for creating new and innovative
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nsgpriyanshu&theme=github_dark&hide_border=true&background=00000000)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nsgpriyanshu&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=00000000)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&color=00FFB3&center=true&vCenter=true&multiline=true&random=false&width=435&height=65&lines=%22+Never+stop+learning+;because+life+never+stop+teaching+%22)](https://git.io/typing-svg)
-
-
-<div align="center">
-    <a href="https://visitcount.itsvg.in">
-        <img src="https://visitcount.itsvg.in/api?id=nsgpriyanshu&icon=6&color=13" alt="Visitor Count">
-    </a>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&color=f10a0a&center=true&vCenter=true&multiline=true&random=false&width=435&height=65&lines=%22+Never+stop+learning+;because+life+never+stop+teaching+%22)](https://git.io/typing-svg)
