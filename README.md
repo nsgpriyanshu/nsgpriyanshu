@@ -23,31 +23,24 @@ I am a passionate software developer with a love for creating new and innovative
 
 ### Programming Languages
 
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![MDX](https://img.shields.io/badge/MDX-%23F9AC00.svg?style=for-the-badge&logo=mdx&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,py,md,tailwind,c)](https://skillicons.dev)
 
 ### Runtimes & Package Managers
 
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,npm)](https://skillicons.dev)
 
 ### Frameworks
 
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![Nextra](https://img.shields.io/badge/Nextra-000000?style=for-the-badge&logo=nextra&logoColor=white&labelColor=000000)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,bootstrap,discordjs)](https://skillicons.dev)
 
 ### Deployment & Hosting
 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=vercel,git,github)](https://skillicons.dev)
+
+### Database
+
+[![My Skills](https://skillicons.dev/icons?i=supabase,mysql)](https://skillicons.dev)
+
 
 </br>
 
