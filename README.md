@@ -16,7 +16,11 @@ I am a passionate software developer with a love for creating new and innovative
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" alt="Ringed Planet" width="25" height="25" /> My Space
 
-[![Creators World](https://custom-icon-badges.demolab.com/badge/Creators%20World-000000.svg?logo=creators_world&logoColor=white&style=for-the-badge)](https://discord.gg/7SAcEv7MDd)
+<a href="https://creatorsworld.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://creatorsworld.vercel.app/icons/cwicon_dark.png" alt="Creator's World" width="50" height="50" />
+</a>
+
+<!-- [![Creators World](https://custom-icon-badges.demolab.com/badge/Creators%20World-000000.svg?logo=creators_world&logoColor=white&style=for-the-badge)](https://discord.gg/7SAcEv7MDd) -->
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" /> Skills
 
