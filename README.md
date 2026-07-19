@@ -66,3 +66,5 @@ My design philosophy follows **minimalism inspired by Apple**, where simplicity,
 
 ![](https://komarev.com/ghpvc/?username=nsgpriyanshu&label=Profile+Insights&color=f10a0a)
 
+
+Day 1
